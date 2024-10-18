@@ -52,6 +52,6 @@ Para ejecutar el proyecto, se necesita:
 
 4.Ejecuta el proyecto en modo de realidad virtual.
 
-##Video del proyecto
+# Video del proyecto
 
 
