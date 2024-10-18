@@ -52,14 +52,6 @@ Para ejecutar el proyecto, se necesita:
 
 4.Ejecuta el proyecto en modo de realidad virtual.
 
-##Contribuciones
+##Video del proyecto
 
-Contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor sigue estos pasos:
 
-Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature-nueva-funcionalidad).
-Realiza los cambios necesarios y haz commit (git commit -m 'Añadir nueva funcionalidad').
-Sube los cambios (git push origin feature-nueva-funcionalidad).
-Crea un Pull Request.
-Licencia
-Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
