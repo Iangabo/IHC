@@ -56,6 +56,6 @@ Para ejecutar el proyecto, se necesita:
 
 Puedes ver una demostración del proyecto en el siguiente enlace:
 
-[Ver Video en Google Drive]([https://drive.google.com/file/d/ID_DEL_VIDEO/view?usp=sharing](https://drive.google.com/file/d/1BksQrKnwkmK6aZj_Rn1IdpJdGiKr3qGI/view?usp=sharing))
+[Ver Video en Google Drive](https://drive.google.com/file/d/1BksQrKnwkmK6aZj_Rn1IdpJdGiKr3qGI/view?usp=sharing)
 
 
