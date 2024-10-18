@@ -53,6 +53,7 @@ Para ejecutar el proyecto, se necesita:
 4.Ejecuta el proyecto en modo de realidad virtual.
 
 ##Contribuciones
+
 Contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor sigue estos pasos:
 
 Haz un fork del repositorio.
