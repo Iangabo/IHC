@@ -18,13 +18,25 @@ El proyecto consiste en un entorno virtual ambientado en un parque de juegos, do
 
 ## Avances del Proyecto
 
-Hasta el momento, se han alcanzado los siguientes hitos:
+Menu Interactivo:
 
-- Creación de un entorno virtual inmersivo con elementos interactivos.
-- Integración del visor Meta Quest 1 para la inmersión visual y auditiva.
-- Implementación del reconocimiento de gestos utilizando Kinect SDK 1.8.
-- Optimización del rendimiento y resolución de problemas técnicos con colisiones y dependencias de SDK.
-- Pruebas preliminares realizadas con miembros del equipo que demuestran una detección de gestos precisa y una experiencia de juego fluida.
+Al iniciar se muestra un menú representado con un sistema solar en donde se pueden escoger si es que se desea ingresar el juego como Profesor o como Alumno, dependiendo de lo que se escoja, se da la opción de ingresar a la sala.
+
+Gracias al entorno de red, contamos con dos jugadores que son instanciados según se escoja en el menú y el juego puede iniciar.
+
+Tutorial:
+
+Dependiendo del jugador que se escoja (Profesor o Alumno), se muestra un video en un panel que da a conocer un tutorial y de esa forma enseña a cada jugador que debe hacer dentro del juego por separado.
+
+Primer Jugador (Profesor):
+
+En cuanto a la funcionalidad dell profesor tiene la opción de crear un camino con las flechas del teclado, el camino esta hecho con pathNodes y esta marcado de color rojo para que se aprecie la visualizacion, solo el jugador que ingrese como profesor y tiene ese ROL sera capaz de crear un camino, el alumno no, la camara del profesor se encuentra situada en la parte superior de la escena para que tenga una mejor visión de donde crear los caminos.
+
+Segundo Jugador (Alumno):
+
+El Alumno puede seguir el camino creado por el profesor en tiempo real mediante gestos que son reconocidos por el kinect como levantar la mano para moverse hacia adelante o hacer swipe left y right para poder girar, el Alumno no puede salir de unos límites puestos en el camino para que así la funcionalidad del juego esté intacta.
+
+
 
 ## Próximos Pasos
 
